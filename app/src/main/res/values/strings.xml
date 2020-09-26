@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PracticeHttpDownlaod</string>
+    <string name="GET_JSON_DATA">Get json data.</string>
+</resources>
